@@ -1,4 +1,4 @@
-#Sun Jun 14 18:13:48 MSK 2020
-base.0=F\:\\flutter\\expenses_count\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+#Wed Jun 17 16:53:22 MSK 2020
+base.0=D\:\\flutter\\expenses_count\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
